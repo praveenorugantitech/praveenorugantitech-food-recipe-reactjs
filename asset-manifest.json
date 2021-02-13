@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-food-recipe-reactjs/static/css/main.dde13dc3.chunk.css",
+    "main.js": "/praveenorugantitech-food-recipe-reactjs/static/js/main.fd611ac0.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-food-recipe-reactjs/static/js/runtime-main.603843cf.js",
+    "static/js/2.d8befa31.chunk.js": "/praveenorugantitech-food-recipe-reactjs/static/js/2.d8befa31.chunk.js",
+    "index.html": "/praveenorugantitech-food-recipe-reactjs/index.html",
+    "static/js/2.d8befa31.chunk.js.LICENSE.txt": "/praveenorugantitech-food-recipe-reactjs/static/js/2.d8befa31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.603843cf.js",
+    "static/js/2.d8befa31.chunk.js",
+    "static/css/main.dde13dc3.chunk.css",
+    "static/js/main.fd611ac0.chunk.js"
+  ]
+}
